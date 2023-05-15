@@ -4,4 +4,4 @@ This was mainly created so people stop obsessing over knockback and creating ran
 
 NOTE: You will need to edit your spigot for certain configurations to work. Although some configurations have been translated to the vanilla format so you won't need to.
 
-Enjoy! 
+Yes, these are the real values, not some remake. Enjoy! 
