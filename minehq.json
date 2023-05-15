@@ -1,0 +1,6 @@
+knockbackFriction = 2.0D;
+knockbackHorizontal = 0.36D;
+knockbackVertical = 0.36D;
+knockbackVerticalLimit = 0.4D;
+knockbackExtraHorizontal = 0.45D;
+knockbackExtraVertical = 0.09D;

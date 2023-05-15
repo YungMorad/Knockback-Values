@@ -1,0 +1,15 @@
+builduhc:
+knockbackFriction = 1.9D;
+knockbackHorizontal = 0.5D;
+knockbackVertical = 0.34D;
+knockbackVerticalLimit = 0.34D;
+knockbackExtraHorizontal = 0.6D;
+knockbackExtraVertical = 0.125D;
+
+nodebuff:
+knockbackFriction = 2.0D;
+knockbackHorizontal = 0.34D;
+knockbackVertical = 0.34D;
+knockbackVerticalLimit = 0.4D;
+knockbackExtraHorizontal = 0.48D;
+knockbackExtraVertical = 0.085D;
